@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: black;
+}
+
+#title{
+    color: white;
+    text-align: center;
+    background-color: rgb(27, 27, 27);
+    padding: 20px;
+}
+
+#quran{
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 50px;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgba(255, 255, 255, 0.151);
+    transition: 00.2s;
+    border-radius: 10px;
+
+}
+#quran:hover{
+    background-color: rgb(53, 53, 53);
+}
+a{
+    text-decoration: none;
+}
